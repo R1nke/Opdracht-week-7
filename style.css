@@ -8,7 +8,7 @@ font-family: 'Nunito', sans-serif;
 
 * {
     box-sizing: border-box;
-    border: solid red 1px;
+   /* border: solid red 1px;*/
 }
 
 body{
